@@ -1,0 +1,4 @@
+package constance
+
+object Constance {
+}
